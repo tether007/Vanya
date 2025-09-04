@@ -3,3 +3,7 @@ ee
 FASTapi
 flask
 earthengine-api
+ultralytics
+uvicorn
+prophet
+pandas
