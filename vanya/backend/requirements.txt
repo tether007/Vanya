@@ -1,0 +1,5 @@
+openCV-python
+ee
+FASTapi
+flask
+earthengine-api
