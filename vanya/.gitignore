@@ -27,6 +27,4 @@ Editor directories and files
 Virtual environments
 venv/
 .venv/
-/backend/venv/
-.venv
-backend\venv\
+backend/.venv/

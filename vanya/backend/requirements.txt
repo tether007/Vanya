@@ -8,3 +8,5 @@ uvicorn
 prophet
 pandas
 geemap
+uv
+python-dotenv
